@@ -1,0 +1,15 @@
+#root{
+    color: yellow;
+}
+
+#reactContainer{
+    background-color: aqua;
+}
+
+#rectHelloElement{
+    color: red;
+}
+
+#rectSmileElement{
+    color: blue;
+}
