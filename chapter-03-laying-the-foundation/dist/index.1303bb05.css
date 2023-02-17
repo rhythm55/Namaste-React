@@ -1,0 +1,13 @@
+.list-style {
+  justify-content: space-between;
+  padding: 0 3rem;
+  list-style: none;
+  display: flex;
+}
+
+.icon {
+  height: 2rem;
+  width: 2rem;
+}
+
+/*# sourceMappingURL=index.1303bb05.css.map */

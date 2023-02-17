@@ -1,0 +1,11 @@
+.list-style{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 3rem;
+}
+
+.icon{
+    height: 2rem;
+    width: 2rem;
+}
