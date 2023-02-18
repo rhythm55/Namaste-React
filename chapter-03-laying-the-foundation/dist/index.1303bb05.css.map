@@ -1,1 +1,0 @@
-{"mappings":"AAAA;;;;;;;AAOA","sources":["styles.css"],"sourcesContent":[".list-style{\n    list-style: none;\n    display: flex;\n    justify-content: space-between;\n    padding: 0 3rem;\n}\n\n.icon{\n    height: 2rem;\n    width: 2rem;\n}"],"names":[],"version":3,"file":"index.1303bb05.css.map","sourceRoot":"/__parcel_source_root/"}
